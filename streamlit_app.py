@@ -1,11 +1,8 @@
 import streamlit
 
-streamlit.title('My First Streamlit Application')
+streamlit.title('My Parents New Healthy Diner')
 
-streamlit.header('Following are the names of some programming languages')
-
-streamlit.text('Java')
-streamlit.text('Python')
-streamlit.text('C++')
-streamlit.text('C')
-streamlit.text('JavaScript')
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
